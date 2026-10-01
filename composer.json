@@ -1,0 +1,21 @@
+{
+    "name": "danillosouza03/github-sdk-php",
+    "description": "Lib PHP para fazer o manejo de issues e adicionar nos projects github.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Danillosouza03\\GithubSdkPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danillo",
+            "email": "120767152+DanilloSouza03@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0"
+    }
+}
